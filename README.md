@@ -3,9 +3,9 @@ The project allows users to query local events, favorite events and get recommen
 
 ## Tech Stack
 * Backend/Frontend
-  Java, HTML, CSS, JavaScript, AJAX
+  * Java, HTML, CSS, JavaScript, AJAX
 * DataBases
-  MySQL
+  * MySQL
 * Testing
   * Postman, JUnit
 * Deployment
