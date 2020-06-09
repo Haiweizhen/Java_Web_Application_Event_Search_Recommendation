@@ -10,3 +10,6 @@ The project allows users to query local events, favorite events and get recommen
   * Postman, JUnit
 * Deployment
   * Amazon EC2
+  
+## Future Improvement
+  Migrate from MySQL to MongoDB to improve the scalability.
