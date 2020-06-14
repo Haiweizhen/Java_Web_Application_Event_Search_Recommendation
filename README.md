@@ -1,4 +1,4 @@
-## Java_Web_Application_Event_Search_Recommendation
+## Java_Web_Application_Event_Search_Recommendation_project
 The project allows users to query local events, favorite events and get recommended events.<br>
 
 ## Tech Stack
@@ -13,3 +13,6 @@ The project allows users to query local events, favorite events and get recommen
   
 ## Future Improvement
   Migrate from MySQL to MongoDB to improve the scalability.
+  
+## Demo
+<img src='https://github.com/Haiweizhen/Java_Web_Application_Event_Search_Recommendation/blob/master/search_event_app/esrdemo.gif' />
