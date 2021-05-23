@@ -15,4 +15,4 @@ The project allows users to query local events, favorite events and get recommen
   Migrate from MySQL to MongoDB to improve the scalability.
   
 ## Project Demo
-<img src='https://github.com/Haiweizhen/Java_Web_Application_Event_Search_Recommendation/blob/master/search_event_app/esrdemo.gif' />
+<img src='https://github.com/Haiweizhen/Java_Web_Application_Event_Search_Recommendation/blob/master/search_event_app/Jietu20210522-233021.gif' />
